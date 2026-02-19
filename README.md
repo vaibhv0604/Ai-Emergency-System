@@ -152,6 +152,10 @@ API Base URL: http://127.0.0.1:8000
 Interactive API Docs (Swagger UI): http://127.0.0.1:8000/docs
 Alternative Docs (ReDoc): http://127.0.0.1:8000/redoc
 
+Author and Collabration 
+
+Author: Vaibhav Gaikwad
+Collaboration:
 🤝 HealBharat Collaboration
 
 This project is prepared for collaboration with HealBharat as part of an AI-driven healthcare and emergency preparedness initiative.
