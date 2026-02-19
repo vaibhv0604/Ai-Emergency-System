@@ -1,4 +1,4 @@
-# Ai-Emergency-System
+  # Ai-Emergency-System
 🚑 AI Emergency Pressure & Ambulance Load Prediction System
 
 📌 Project Overview
@@ -151,11 +151,6 @@ uvicorn app.main:app --reload
 API Base URL: http://127.0.0.1:8000
 Interactive API Docs (Swagger UI): http://127.0.0.1:8000/docs
 Alternative Docs (ReDoc): http://127.0.0.1:8000/redoc
-👤 Author & Collaboration
-
-Author: Kamsali Deepika
-Email: kamsalideepika1@gmail.com
-GitHub: https://github.com/kamsalideepika
 
 🤝 HealBharat Collaboration
 
